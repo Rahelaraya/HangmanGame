@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HangmanGame": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
